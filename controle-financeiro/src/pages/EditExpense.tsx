@@ -1,0 +1,1 @@
+// EditExpense.tsx - conteúdo reconstruído
