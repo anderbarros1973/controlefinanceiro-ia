@@ -1,1 +1,0 @@
-// ReceiptManager.tsx - conteúdo reconstruído
